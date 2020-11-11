@@ -1,1 +1,1 @@
-# devschool
+# DevSchool
